@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MaJiaYu/nodejsServer#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "node-windows": "^0.1.14"
   }
 }
